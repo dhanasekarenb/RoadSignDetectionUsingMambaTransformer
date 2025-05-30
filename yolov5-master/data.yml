@@ -1,0 +1,49 @@
+train: C:/Users/dhana/OneDrive/Desktop/Final year project/yolo_dataset/images/train
+val: C:/Users/dhana/OneDrive/Desktop/Final year project/yolo_dataset/images/test
+
+nc: 43  # Number of classes
+
+names:
+  - Speed Limit 20
+  - Speed Limit 30
+  - Speed Limit 50
+  - Speed Limit 60
+  - Speed Limit 70
+  - Speed Limit 80
+  - End Speed Limit 80
+  - Speed Limit 100
+  - Speed Limit 120
+  - No Overtaking
+  - No Overtaking by Trucks
+  - Priority at Next Intersection
+  - Priority Road
+  - Yield
+  - Stop
+  - No Vehicles
+  - No Trucks
+  - No Entry
+  - General Danger
+  - Curve Left
+  - Curve Right
+  - Double Curve
+  - Uneven Road
+  - Slippery Road
+  - Road Narrows Right
+  - Road Work
+  - Traffic Signals
+  - Pedestrians
+  - Children
+  - Bicycles
+  - Ice/Snow
+  - Wild Animals
+  - End Restriction
+  - Turn Right
+  - Turn Left
+  - Go Straight
+  - Go Straight or Right
+  - Go Straight or Left
+  - Keep Right
+  - Keep Left
+  - Roundabout
+  - End of No Overtaking
+  - End No Overtake Trucks

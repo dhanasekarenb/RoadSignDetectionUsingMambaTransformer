@@ -1,0 +1,4 @@
+dataset/
+yolo_crops/
+yolo_dataset/
+detections/
